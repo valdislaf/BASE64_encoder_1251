@@ -7,3 +7,11 @@ int main()
     prnt_l(frase64);
     return 0;
 }
+
+/*
+cd D:/VLAD/C++/practicum.yandex/lessons_g++/BASE64_encoder_1251/BASE64_encoder_1251
+
+git remote add BASE64_encoder_1251 https://github.com/valdislaf/BASE64_encoder_1251.git
+git push BASE64_encoder_1251
+git remote rm BASE64_encoder_1251
+*/
