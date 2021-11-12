@@ -10,13 +10,19 @@ int main()
 
 /*
 * 
+cd D:/VLAD/C++/practicum.yandex/lessons_g++/BASE64_encoder_1251/BASE64_encoder_1251
+git init
 git status
 git add --all
 git commit -m "comment"
+git push BASE64_encoder_1251
 
-cd D:/VLAD/C++/practicum.yandex/lessons_g++/BASE64_encoder_1251/BASE64_encoder_1251
+
+
+
 
 git remote add BASE64_encoder_1251 https://github.com/valdislaf/BASE64_encoder_1251.git
-git push BASE64_encoder_1251
+
+delete:
 git remote rm BASE64_encoder_1251
 */
