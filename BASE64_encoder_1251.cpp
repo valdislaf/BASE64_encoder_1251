@@ -9,6 +9,11 @@ int main()
 }
 
 /*
+* 
+git status
+git add --all
+git commit -m "comment"
+
 cd D:/VLAD/C++/practicum.yandex/lessons_g++/BASE64_encoder_1251/BASE64_encoder_1251
 
 git remote add BASE64_encoder_1251 https://github.com/valdislaf/BASE64_encoder_1251.git
